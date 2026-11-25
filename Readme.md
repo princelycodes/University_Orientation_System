@@ -31,18 +31,18 @@ Unlike standard software that relies on basic `if/else` statements, this system 
    cd University_Orientation_System
 
 2. **Install Dependencies:** 
-*(Ensure you have Python and SWI-Prolog installed on your machine)*
-```bash
-pip install streamlit pyswip
+   *(Ensure you have Python and SWI-Prolog installed on your machine)*
+   ```bash
+   pip install streamlit pyswip
 
 3. **Initialize the Database:** 
-```bash
-python setup_database.py
+   ```bash
+   python setup_database.py
 
 4. **Run The Web App:**
-```bash
-python -m streamlit run app.py
+   ```bash
+   python -m streamlit run app.py
 
 **Author 👨‍💻:** 
-*Ngang Princely Afumbom N.* 
-*(GitHub: @princeycodes)*
+   *Ngang Princely Afumbom N.* 
+   *(GitHub: @princeycodes)*
